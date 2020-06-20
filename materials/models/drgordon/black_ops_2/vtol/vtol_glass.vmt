@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\drgordon\black_ops_2\vtol\vtol_glass"			
+	"$bumpmap"					"models\drgordon\glass_n"
+	"$halflambert" "1"				
+	"$nocull" "0"
+	"$translucent"			"1"
+	"$phong"				"1"
+	"$phongalbedotint"		"1"
+	"$phongboost"			"0.20"
+	"$phongexponent"		"15"
+	"$phongfresnelranges"	"[1 1 1]"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\drgordon\black_ops_2\vtol\vtol_autopilot_screen_01"
+	"$selfillum" 					"1"
+}
